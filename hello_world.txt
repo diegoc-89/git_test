@@ -1,1 +1,3 @@
 Hi there! making changes in order to try make more commits!
+
+adding more lines of text in order to try the updated commit command
